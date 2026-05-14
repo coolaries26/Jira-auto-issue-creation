@@ -1,4 +1,4 @@
-# 📅 DAY 04 — Sprint 01 | Production-Grade Logging
+# 📅 Sample .md file used as input to create issues | Production-Grade Logging
 ## Replace print() with Python logging + Structured Pipeline Logs
 
 ---
