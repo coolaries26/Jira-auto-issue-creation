@@ -183,12 +183,8 @@ for i in top:
 
 ***
 
-### 🔧 Next Steps You Didn’t Ask Explicitly
+### 🔧 Next Steps
 
 *   Create an initial sprint in Jira UI: click **Backlog → Create Sprint**, drag relevant issues, and **Start Sprint**.
 *   Schedule these Python scripts to run automatically using cron / Task Scheduler or CI/CD for daily reporting.
 *   If your team grows beyond 10 users, consider Jira Standard or Premium for hierarchy and advanced workflows.
-
-***
-
-These steps and scripts give you a **complete playbook** to set up a free Scrum-ready Jira project and automate both issue creation and monitoring from Python.Would you like this playbook packaged as a **Git repo template** or converted into a **one‑page runbook PDF**?
